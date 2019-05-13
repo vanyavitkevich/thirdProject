@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'BigNoodleTitling';
+    src: url('BigNoodleTitling.woff2') format('woff2'),
+        url('BigNoodleTitling.woff') format('woff'),
+        url('BigNoodleTitling.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BigNoodleTitling';
+    src: url('BigNoodleTitling-Oblique.woff2') format('woff2'),
+        url('BigNoodleTitling-Oblique.woff') format('woff'),
+        url('BigNoodleTitling-Oblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MgOpen Modata';
+    src: url('MgOpenModata.woff2') format('woff2'),
+        url('MgOpenModata.woff') format('woff'),
+        url('MgOpenModata.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
